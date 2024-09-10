@@ -58,17 +58,30 @@ a) navigate to the polygonvalidator directory.
 
 cd polygonvalidator
 
+
 b) build the docker image
 
 docker build -t polygon-validator-monitoring .
+
 
 c) run the docker image
 
 docker run -d polygon-validator-monitoring
 
+![1](https://github.com/user-attachments/assets/851d5dfe-4514-4d61-84c4-ab01756590cb)
+
+
 d) We observe the container ID being displayed here.
 
+
+
+
+
 e) Also we can use certain commands to explore more:
+
+![WhatsApp Image 2024-09-10 at 22 36 51](https://github.com/user-attachments/assets/2e255483-9c1f-4a14-ad6c-a7d0a2fb9600)
+
+Here at the bottom we can see the container ID being used.
 
 
 1) This command is used to see all the existing containers.
@@ -86,7 +99,8 @@ docker ps -a
 
  Finally we recieve alerts in telegram in our polygonvalidorbot that was created initially .
 
- 
+ ![2](https://github.com/user-attachments/assets/4b055213-e583-47e0-99a3-145e038ad5c0)
+
 
     
 
