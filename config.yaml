@@ -1,0 +1,16 @@
+telegram:
+  bot_token: "7279039036:AAEsQUvyFpWXJq4Mtd7obAG-Y4LEH1bpxXg"
+  chat_id: "7208673008"
+
+
+validator_address: "0xF744Cac0c0D8c2B796FeDB28aa2Ef0858F6F35f1"
+
+
+
+
+
+
+rpc_endpoints:
+  bor: "https://docs.polygon.technology/pos/architecture/bor/"  # Bor RPC endpoint
+  heimdall: "https://docs.polygon.technology/pos/architecture/heimdall/"  # Heimdall RPC endpoint
+
