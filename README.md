@@ -99,7 +99,9 @@ docker ps -a
 
  Finally we recieve alerts in telegram in our polygonvalidorbot that was created initially .
 
- ![2](https://github.com/user-attachments/assets/4b055213-e583-47e0-99a3-145e038ad5c0)
+
+ ![2](https://github.com/user-attachments/assets/606cabeb-75b6-48ec-9584-7a90a331c953)
+
 
 
     
